@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 .*
 !/.gitignore
-/home/fserrey/gitrep/gis-data-exploration/sat-image analysis/data/*
+sat-image analysis/data/*
