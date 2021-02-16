@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 .*
 !/.gitignore
-sat-image analysis/data/*
+sat-image-analysis/data/*
+sat-image-analysis/output/*
