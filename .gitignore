@@ -131,3 +131,4 @@ dmypy.json
 !/.gitignore
 sat-image-analysis/data/*
 sat-image-analysis/output/*
+maps-osm/cache/*
